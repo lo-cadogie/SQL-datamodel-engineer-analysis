@@ -1,3 +1,7 @@
+emp_db.sql
+emp_table_schema.txt
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
